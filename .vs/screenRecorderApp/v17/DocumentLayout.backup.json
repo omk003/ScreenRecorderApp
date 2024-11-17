@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\screenRecorderApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ACBF63-9444-4FE3-86A7-DC69B0521EA1}|screenRecorderApp\\screenRecorderApp.csproj|c:\\users\\lenovo\\source\\repos\\screenrecorderapp\\screenrecorderapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ACBF63-9444-4FE3-86A7-DC69B0521EA1}|screenRecorderApp\\screenRecorderApp.csproj|solutionrelative:screenrecorderapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ACBF63-9444-4FE3-86A7-DC69B0521EA1}|screenRecorderApp\\screenRecorderApp.csproj|c:\\users\\lenovo\\source\\repos\\screenrecorderapp\\screenrecorderapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5ACBF63-9444-4FE3-86A7-DC69B0521EA1}|screenRecorderApp\\screenRecorderApp.csproj|solutionrelative:screenrecorderapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\screenRecorderApp\\screenRecorderApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "screenRecorderApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\screenRecorderApp\\screenRecorderApp\\MainWindow.xaml",
+              "RelativeToolTip": "screenRecorderApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T17:36:15.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\screenRecorderApp\\screenRecorderApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "screenRecorderApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\screenRecorderApp\\screenRecorderApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "screenRecorderApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:36:11.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

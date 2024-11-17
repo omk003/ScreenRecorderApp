@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wZY2UmLyR54=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\screenRecorderApp\\screenRecorderApp\\screenRecorderApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\ffmpeg.autogen\\7.0.0\\ffmpeg.autogen.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
